@@ -1,0 +1,94 @@
+{
+    "data": [
+      {
+        "id": 1,
+        "name": "Action",
+        "srcCover": "./img/genreCovers/Action.webp",
+        "srcIcon": "./img/genreIcons/action-icon.png"
+      },
+      {
+        "id": 2,
+        "name": "Adventure",
+        "srcCover": "./img/genreCovers/Adventure.webp",
+        "srcIcon": "./img/genreIcons/adventure-icon.png"
+      },
+      {
+        "id": 3,
+        "name": "Comedy",
+        "srcCover": "./img/genreCovers/Comedy.webp",
+        "srcIcon": "./img/genreIcons/comedy-icon.png"
+      },
+      {
+        "id": 4,
+        "name": "Drama",
+        "srcCover": "./img/genreCovers/Drama.webp",
+        "srcIcon": "./img/genreIcons/drama-icon.png"
+      },
+      {
+        "id": 5,
+        "name": "Fantasy",
+        "srcCover": "./img/genreCovers/Fantasy.webp",
+        "srcIcon": "./img/genreIcons/fantasy-icon.png"
+      },
+      {
+        "id": 6,
+        "name": "Music",
+        "srcCover": "./img/genreCovers/Music.webp",
+        "srcIcon": "./img/genreIcons/music-icon.png"
+      },
+      {
+        "id": 7,
+        "name": "Romance",
+        "srcCover": "./img/genreCovers/Romance.webp",
+        "srcIcon": "./img/genreIcons/romance-icon.png"
+      },
+      {
+        "id": 8,
+        "name": "Sci-Fi",
+        "srcCover": "./img/genreCovers/Sci-Fi.webp",
+        "srcIcon": "./img/genreIcons/scifi-icon.png"
+      },
+      {
+        "id": 9,
+        "name": "Seinen",
+        "srcCover": "./img/genreCovers/Seinen.webp",
+        "srcIcon": "./img/genreIcons/seinen-icon.png"
+      },
+      {
+        "id": 10,
+        "name": "Shojo",
+        "srcCover": "./img/genreCovers/Shojo.webp",
+        "srcIcon": "./img/genreIcons/shojo-icon.png"
+      },
+      {
+        "id": 11,
+        "name": "Shonen",
+        "srcCover": "./img/genreCovers/Shonen.webp",
+        "srcIcon": "./img/genreIcons/shonen-icon.png"
+      },
+      {
+        "id": 12,
+        "name": "Slice of life",
+        "srcCover": "./img/genreCovers/SliceOfLife.webp",
+        "srcIcon": "./img/genreIcons/sliceoflife-icon.png"
+      },
+      {
+        "id": 13,
+        "name": "Sports",
+        "srcCover": "./img/genreCovers/Sports.webp",
+        "srcIcon": "./img/genreIcons/sports-icon.png"
+      },
+      {
+        "id": 14,
+        "name": "Supernatural",
+        "srcCover": "./img/genreCovers/Supernatural.webp",
+        "srcIcon": "./img/genreIcons/supernatural-icon.png"
+      },
+      {
+        "id": 15,
+        "name": "Thriller",
+        "srcCover": "./img/genreCovers/Thriller.webp",
+        "srcIcon": "./img/genreIcons/thriller-icon.png"
+      }
+    ]
+  }
